@@ -6,9 +6,6 @@
 
 using namespace std;
 
-
-
-
 typedef struct node node;
 
 struct node {
